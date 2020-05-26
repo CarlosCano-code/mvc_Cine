@@ -1,0 +1,4 @@
+user:carloscano
+password:SqL1380
+host:localhost
+database:cine_db
